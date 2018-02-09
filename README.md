@@ -19,9 +19,11 @@
    1. select `uno.TestCaseProcessor` to test your code on 10,000 hands to be sure your code doesn't throw any errors
    1. OPTIONAL: select `uno.UnoSimulation` to run one round. study the contents of the `Run I/O` tab to see how the round played out.
 
-### Definition of done
+WE WILL CONTINUE FROM THIS POINT IN CLASS ON MONDAY.
+
+~~### Definition of done
 Your code:
 * passes all the tests in `TestCaseProcessor`
-* meets the requirements of "For a B..." or "For an A..." in the grading section of the tournament packet
+* meets the requirements of "For a B..." or "For an A..." in the grading section of the tournament packet~~
 
-To submit your code, send Mr. Smith an email (andrewsmith@wcsu.net) with your `USERNAME_UnoPlayer.java` file as an attachment
+~~To submit your code, send Mr. Smith an email (andrewsmith@wcsu.net) with your `USERNAME_UnoPlayer.java` file as an attachment~~
