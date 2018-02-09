@@ -1,7 +1,7 @@
 # Uno
 ### Setup instructions
 1. install jGRASP following the instructions [here](https://courses.cs.washington.edu/courses/cse14x/software/jgrasp.html)
-1. download [this zip file]()
+1. download [this zip file](https://drive.google.com/open?id=1UCMPdlqFl6zOxCwGJhXbM7xrl6LeQTUA)
 1. extract it to a working location on your computer
 1. open the `uno` folder
 1. find the file `HELLO_UnoPlayer.java` and rename it to replace `HELLO` with your school username (like `18skywan_UnoPlayer.java`)
