@@ -21,9 +21,9 @@
 
 WE WILL CONTINUE FROM THIS POINT IN CLASS ON MONDAY.
 
-~~### Definition of done
-Your code:
-* passes all the tests in `TestCaseProcessor`
-* meets the requirements of "For a B..." or "For an A..." in the grading section of the tournament packet~~
+~~### Definition of done~~
+~~Your code:~~
+~~* passes all the tests in `TestCaseProcessor`~~
+~~* meets the requirements of "For a B..." or "For an A..." in the grading section of the tournament packet~~
 
 ~~To submit your code, send Mr. Smith an email (andrewsmith@wcsu.net) with your `USERNAME_UnoPlayer.java` file as an attachment~~
