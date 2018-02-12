@@ -21,7 +21,7 @@
 
 **Do you get an error about `javac: file not found:...` and `rcatahan_UnoPlayer.java`?** If so, look under `Source files` on the left side of your screen, right-click on `rcatahan_UnoPlayer.java` and select `Remove from project`.
 
-**Do you get an error about `java.lang.ClassNotFoundException: uno.andrewsmith_UnoPlayer`?** If so, look under `Source files` on the left side of your screen, right-click on `Main.java` and select `Remove from project`.
+**Do you get an error about `Main.java:10: error: cannot find symbol ... UnoPlayer jup = new andrewsmith_UnoPlayer();`?** If so, look under `Source files` on the left side of your screen, right-click on `Main.java` and select `Remove from project`.
 
 WE WILL CONTINUE FROM THIS POINT IN CLASS ON MONDAY.
 
