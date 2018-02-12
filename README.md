@@ -13,7 +13,7 @@
 1. one of those files is `players.txt`. open that file and change `keyboardCat` to your username, and press CTRL-S (or CMD-s) to save
 1. go back to the source files and find the one called `UnoSimulation.java`. open that file. then from the menubar select Build, then select Run Arguments. a long skinny textbox just appeared above your edit window, with a label next to it that says "Run Arguments". in that empty textbox, write `1 verbose`.
 1. go back to the source files and find the one called `TestCaseProcessor.java`. open that file. then from the menubar select Build, then select Run Arguments. a long skinny textbox just appeared above your edit window, with a label next to it that says "Run Arguments". in that empty textbox, write your username (the one you replaced `keyboardcat` with).
-1. go back to the source files and find the one with your username in the title. double-click that file to open it in the edit window
+1. ~~go back to the source files and find the one with your username in the title. double-click that file to open it in the edit window~~ skip this step for now, we'll do it in class together Monday
 1. ~~edit the code. save often with CTRL-s or CMD-s~~ skip this step for now, we'll do it in class together Monday
 1. when you are ready to run your code, press CTRL-r (or maybe CMD-r on Mac?) (or click the icon at the top of the jGRASP window that looks like a little red running man), then select one of the following options, and click okay:
    1. select `uno.TestCaseProcessor` to test your code on 10,000 hands to be sure your code doesn't throw any errors
