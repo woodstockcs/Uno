@@ -19,6 +19,8 @@
    1. select `uno.TestCaseProcessor` to test your code on 10,000 hands to be sure your code doesn't throw any errors
    1. OPTIONAL: select `uno.UnoSimulation` to run one round. study the contents of the `Run I/O` tab to see how the round played out.
 
+**Do you get an error about `java.lang.ClassNotFoundException: uno.andrewsmith_UnoPlayer`?** If so, look under `Source files` on the left side of your screen, right-click on `Main.java` and select `Remove from project`.
+
 WE WILL CONTINUE FROM THIS POINT IN CLASS ON MONDAY.
 
 ~~### Definition of done~~
